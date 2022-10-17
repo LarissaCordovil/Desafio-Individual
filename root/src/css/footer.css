@@ -6,7 +6,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
-    color:black;
+    color:pink;
 }
 
 .main-footer {
@@ -51,7 +51,7 @@ footer nav li {
 }
 
 footer nav a {
-    color: black !important;
+    color: pink !important;
     text-decoration: none;
     font-size: 18px;
 }
