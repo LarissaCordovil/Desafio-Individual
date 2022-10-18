@@ -34,23 +34,6 @@
     color: rgb(223, 130, 130)
 }
 
-.right-side {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    width: 45vw;
-    min-width: 300px;
-    margin: 0 5%;
-    padding: 0.5rem;
-}
-
-.user {
-    width: 30vw;
-    min-width: 100px;
-    margin: auto;
-    padding: 0.5rem;
-}
-
 nav {
     background-color: var(--green-dark);
 }
