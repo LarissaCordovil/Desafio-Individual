@@ -1,2 +1,2 @@
 # Desafio-Individual
-Criação de uma single page utilizando CSS.
+Criação de uma página para o curso de Full Stack Javascript Developer da T.EX.
